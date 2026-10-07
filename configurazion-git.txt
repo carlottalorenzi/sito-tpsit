@@ -1,0 +1,9 @@
+z:\>git config --global user.name "carlotta lorenzi"
+
+z:\>git config --global user.email "carlotta.lorenzi@marconirovereto.it"
+
+z:\>git config --global --list
+user.name=carlotta lorenzi
+user.email=carlotta.lorenzi@marconirovereto.it
+init.defaultbranch=main
+pull.rebase=false
