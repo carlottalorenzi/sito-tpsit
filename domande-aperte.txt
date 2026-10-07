@@ -1,0 +1,2 @@
+Quando si usa git commit?
+Come si sconfigge un conflitto?
