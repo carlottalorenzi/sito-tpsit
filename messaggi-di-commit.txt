@@ -1,0 +1,6 @@
+1. git commit -m "FIX FEAT:aggiunto e mofificato  modifiche non va bene perchè non è un commit specifico
+2. git commit -m "FEAT: ho aggiunto file-status"  non va bene asdf perrchè sono lettere a caso e bisogna spiegare bene cosa si fa 
+3. git commit -m "FIX: ho cambiato il codice di file-5 e ora funziona" non andava bene finalmente funziona perche bisogna spiegare
+4. git commit -m "FEAT: aggiunto nuovo file-prova del giorno 17/09" spiegare quali file si sono committati
+5.git commit -m "FIX: modificato file-appunti e pagina-appunti" bisonìgna scrivere FIX 
+6. git commit -m "FIX:modificato file-git" fix non va bene perchè bisogna spiegare quale file 
