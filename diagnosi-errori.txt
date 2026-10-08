@@ -1,0 +1,20 @@
+1. fatal: not a git repository (or any of the parent directories): .git 
+    significa che non c'è/non esiste un repository di git che è segnato con il .git
+    si verifica  durante un git add/git status
+    si può risolvere con un cd nome-cartella dando la directory o repository giusta
+
+2.Author identity unknown
+    ..* Please tell me who you are.
+    significa che la macchina/programma non sa chi sei e ti chiede chi sei, cioè dargli i tuoi dati 
+    si può verificare durante un git commit -m "messaggi"
+    si risolve con un git config --global user.name "Mario Rossi"
+                      git config --global user.email "mario.rossi@studenti.marconirovereto.it"
+
+3.! [rejected]        main -> main (fetch first)
+  error: failed to push some refs to 'https://github.com/...'
+
+
+4.fatal: destination path 'sito-tpsit' already exists and is not an empty directory.
+    significa che mentre stavi creando una directory con lo stesso nome esisteva già e ha dei file all'interno
+    accade quando vuoi fare git clone ...
+    si può risolvere facendo git clone ... sito-tpsit2 quindi cambiando il nome della directory
