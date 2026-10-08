@@ -1,0 +1,14 @@
+git --version
+git version 2.55.0
+
+pwd
+/workspaces/sito-tpsit
+
+ls
+README.md             configurazion-git.txt  esercizio-status.txt    note-codespaces.txt
+andata-e-ritorno.txt  domande-aperte.txt     messaggi-di-commit.txt  scheda-personale.txt
+
+Le risposte sono diverse da windows, tranne git --version che dovrebbe essere simile e dice solo la versione di windows installata di git,
+ma pwd è diverso perchè windows ha un percorso diverso da codespaces
+ls invece visualizza i file secondo il sistema.
+
