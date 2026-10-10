@@ -1,0 +1,8 @@
+In questo modulo abbiamo usato GitHub e Visual Studio Code e la macchina locale.
+L differenze principali sono: SU GitHub e Visul Studio Code sono già collegati assieme 
+invece la macchina locale ha bisgono di essere ollegata con GitHub
+con diversi comandi, e le macchine sono diverse sia a scuola che a casa.
+Sicuramente GitHub con Visual Studio Code è più comodo perchè come ho già detto sono collegati e servono meno passaggi,
+anche il fatto che cambiando macchine non bisogna fare più comandi è piu comodo.
+Nella scelta da fare per scegliere il metodo più comodo a prima vosta direi GitHub con visualstudiocode
+ma acnche avere tutto in locale è un bene.
