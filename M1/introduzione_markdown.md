@@ -75,3 +75,17 @@ Questo è un paragRafo normale
 
 ---
 
+## tabelle
+
+| cognome | nome | voto |
+|:---| :--- | ---:|
+| rossi | marco | 9.5 |
+|bianchi | franco | 5 |
+
+## checklist
+
+- [x] installazione del programma 
+- [x] prima eseguzione
+- [] correzione degli errori
+
+ 
