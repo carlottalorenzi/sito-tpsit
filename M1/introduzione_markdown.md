@@ -88,4 +88,3 @@ Questo è un paragRafo normale
 - [x] prima eseguzione
 - [] correzione degli errori
 
- 
