@@ -41,9 +41,9 @@ Anche questa parola è importante: *Github*
 [Github](https://github.com)
 
 ## Lezioni
-[Lezione 1](./documenti/lezione1.md)
+[Lezione 1](./docs/lezione1.md)
 
-[Lezione 2](./documenti/lezione2.md)
+[Lezione 2](./docs/lezione2.md)
 
 ## Immagini
 
